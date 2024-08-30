@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-fmt.print("IAMTESTER")
+fmt.Println("IAMTESTER")
 }
